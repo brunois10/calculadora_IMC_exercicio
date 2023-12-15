@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import IMCCalc from './components/Calculadora'
 
 
